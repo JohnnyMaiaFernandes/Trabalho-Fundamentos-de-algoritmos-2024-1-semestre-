@@ -1,0 +1,5 @@
+medal_type,medal_code,medal_date,name,gender,discipline,event,event_type,url_event,code,country_code,country,country_long
+Gold Medal,1,2024-07-27,Remco EVENEPOEL,M,Cycling Road,Men's Individual Time Trial,ATH,enparis-2024resultscycling-roadmen-s-individual-time-trialfnl-000100--,1903136,BEL,Belgium,Belgium
+Silver Medal,2,2024-07-27,Filippo GANNA,M,Cycling Road,Men's Individual Time Trial,ATH,enparis-2024resultscycling-roadmen-s-individual-time-trialfnl-000100--,1923520,ITA,Italy,Italy
+Bronze Medal,3,2024-07-27,Wout van AERT,M,Cycling Road,Men's Individual Time Trial,ATH,enparis-2024resultscycling-roadmen-s-individual-time-trialfnl-000100--,1903147,BEL,Belgium,Belgium
+Gold Medal,1,2024-07-27,Grace BROWN,W,Cycling Road,Women's Individual Time Trial,ATH,enparis-2024resultscycling-roadwomen-s-individual-time-trialfnl-000100--,1940173,AUS,Australia,Australia
